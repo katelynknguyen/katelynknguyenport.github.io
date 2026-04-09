@@ -6,7 +6,7 @@ website:
   title: "Katelyn K Nguyen Portfolio"
   navbar:
     left:
-      - href: index.qmd
+      - href: Katelyn K Nguyen Portfolio.qmd
         text: Home
       - about.qmd
 
