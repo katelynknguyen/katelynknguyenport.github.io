@@ -1,0 +1,15 @@
+{
+  "hash": "d87cb87dcb61df2d0c01355294dac5a1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Katelyn K Nguyen Portfolio\"\n---\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
