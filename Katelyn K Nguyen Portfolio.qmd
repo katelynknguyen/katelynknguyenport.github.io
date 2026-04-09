@@ -1,21 +1,5 @@
 ---
-project:
-  type: website
-  output-dir: docs
-
-website:
-  title: "Katelyn K Nguyen Portfolio"
-  navbar:
-    left:
-      - href: Katelyn K Nguyen Portfolio.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+title: "Katelyn K Nguyen Portfolio"
 ---
 
 ## Quarto
