@@ -1,11 +1,9 @@
 ---
-title: "Katelyn K Nguyen Portfolio"
+title: "Katelyn K Nguyen's Portfolio"
 ---
 
-## Quarto
+## About Me
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+![Profile pictudocs/profile.jpg){width=200px fig-align="center"}
 
-```{r}
-1 + 1
-```
+Insert stuff about me here.

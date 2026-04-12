@@ -2,15 +2,15 @@
   {
     "objectID": "Katelyn K Nguyen Portfolio.html",
     "href": "Katelyn K Nguyen Portfolio.html",
-    "title": "Katelyn K Nguyen Portfolio",
+    "title": "Katelyn K Nguyen’s Portfolio",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "![Profile pictudocs/profile.jpg){width=200px fig-align=“center”}\nInsert stuff about me here."
   },
   {
-    "objectID": "Katelyn K Nguyen Portfolio.html#quarto",
-    "href": "Katelyn K Nguyen Portfolio.html#quarto",
-    "title": "Katelyn K Nguyen Portfolio",
+    "objectID": "Katelyn K Nguyen Portfolio.html#about-me",
+    "href": "Katelyn K Nguyen Portfolio.html#about-me",
+    "title": "Katelyn K Nguyen’s Portfolio",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "![Profile pictudocs/profile.jpg){width=200px fig-align=“center”}\nInsert stuff about me here."
   }
 ]
