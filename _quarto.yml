@@ -10,7 +10,7 @@ website:
         # text: Home
       - href: projects.qmd
         text: Projects
-      - href: Math 437 Final Project.qmd
+      - href: math-437.qmd
         text: Math 437 Final Project
 
 format:
