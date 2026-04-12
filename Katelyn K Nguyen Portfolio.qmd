@@ -4,6 +4,11 @@ title: "Katelyn K Nguyen"
 about:
   template: trestles
   image: profile.jpg
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/katelynknguyen
 ---
 
 ## About Me
@@ -12,8 +17,10 @@ Hi there! A little bit about me is that I am a senior college student pursuing a
 I am particularly interested in transforming data into meaningful insights that support decision-making. Through my coursework and projects, I have worked with tools such as R, Python, and SQL to analyze datasets, build predictive models, and communicate results effectively.
 I am currently seeking opportunities in data analytics where I can apply my quantitative skills, continue learning, and contribute to data-driven solutions in a collaborative environment.
 
-Some fun/interesting facts about me are I used to work as a barista, which taught me how to stay calm under pressure, multitask efficiently, and remember orders like a pro — skills I now bring into data-heavy work environments. Through this, I also found a hobby of making and curating coffee and teat drinks and love to try new places that opened up. 
-As a mathematics major focused on statistics and probability, I enjoy finding patterns in data and turning numbers into meaningful insights. I am proficient in Vietnamese, which allows me to connect with diverse communities and bring a broader perspective to collaborative environments.
+Some fun/interesting facts about me are I used to work as a barista, which taught me how to stay calm under pressure, multitask efficiently, and remember multiple orders at once — skills I now bring into data-heavy work environments. Through this, I also found a hobby of making and curating coffee and tea drinks and love to try new places that opened up. 
+I am proficient in Vietnamese, which allows me to connect with diverse communities and bring a broader perspective to collaborative environments.
 
 
+## Education 
 
+California State University, Fullerton \| August 2022 - May 2026

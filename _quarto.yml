@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Katelyn K Nguyen Portfolio"
+  title: "Katelyn K Nguyen's Portfolio"
   navbar:
     left:
-      - href: Katelyn K Nguyen Portfolio.qmd
-        text: Home
-      - about.qmd
+      - href: index.qmd
+        # text: Home
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    linkcolor: "darkblue"
+    mainfont: "sarif"
 
 editor: visual
 
